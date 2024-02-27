@@ -1,0 +1,11 @@
+.moviesCol {
+  text-align: start;
+  width: 25%;
+}
+
+.container {
+  display: flex;
+}
+main {
+  display: flex;
+}
