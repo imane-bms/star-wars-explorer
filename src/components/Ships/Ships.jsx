@@ -45,7 +45,7 @@ const Ships = (props) => {
     // console.log(urls); // array of urls of pilots
     setShowPilots(!showPilots);
     setPilotsUrls(urls);
-    // console.log(pilotsUrls);
+    console.log(pilotsUrls);
   }
   //   console.log(ships); // array of ships and their info
 
